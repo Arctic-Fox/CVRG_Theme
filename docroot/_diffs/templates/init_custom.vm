@@ -1,0 +1,7 @@
+#*
+This file allows you to override and define new Velocity variables.
+*#
+
+#set( $custom_company_url = "http://www.cvrgrid.org" )
+
+#set( $custom_sign_in_url = "https://portal.cvrgrid.org/portal/startRequest" )
